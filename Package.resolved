@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "repoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ErusaevAP/repoA",
+      "state" : {
+        "revision" : "b4c16285b1ffef9b043d06c5a6780ae4d491f664",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
